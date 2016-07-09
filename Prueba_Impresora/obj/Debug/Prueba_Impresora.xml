@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Prueba_Impresora
+</name>
+</assembly>
+<members>
+<member name="M:Prueba_Impresora.Form1.PrintText(System.String,System.Drawing.Font,System.Int32)">
+	<summary>
+ Agrega una linea al documento. Alineación: 0-&gt; Izquierda; 1-&gt;Centro; 2-&gt; Derecha
+ </summary>
+	<param name="Texto">Texto a imprimir</param>
+	<param name="Fuente_F">Titulo; Encabezado; Cuerpo; Columna</param>
+	<param name="Alineacion">Alineación: 0-&gt; Izquierda; 1-&gt;Centro; 2-&gt; Derecha</param>
+	<remarks></remarks>
+</member><member name="M:Prueba_Impresora.Form1.EndPrint">
+	<summary>
+ Indica el termino de un impresión
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Prueba_Impresora.Form1.StartPrint(System.Drawing.Printing.PrintPageEventArgs)">
+	<summary>
+ Indica el inicio de la creación de un documento
+ </summary>
+	<param name="e">PrintPageEventArgs</param>
+	<remarks></remarks>
+</member><member name="P:Prueba_Impresora.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Prueba_Impresora.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Prueba_Impresora.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

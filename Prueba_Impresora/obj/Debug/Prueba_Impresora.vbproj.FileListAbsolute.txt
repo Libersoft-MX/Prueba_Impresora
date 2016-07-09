@@ -1,0 +1,12 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Prueba_Impresora\Prueba_Impresora\bin\Debug\Prueba_Impresora.exe.config
+C:\Users\Daniel\Documents\GitHub\Prueba_Impresora\Prueba_Impresora\bin\Debug\Prueba_Impresora.exe.config
+C:\Users\Daniel\Documents\GitHub\Prueba_Impresora\Prueba_Impresora\bin\Debug\Prueba_Impresora.exe
+C:\Users\Daniel\Documents\GitHub\Prueba_Impresora\Prueba_Impresora\bin\Debug\Prueba_Impresora.pdb
+C:\Users\Daniel\Documents\GitHub\Prueba_Impresora\Prueba_Impresora\bin\Debug\Prueba_Impresora.xml
+C:\Users\Daniel\Documents\GitHub\Prueba_Impresora\Prueba_Impresora\obj\Debug\Prueba_Impresora.Form1.resources
+C:\Users\Daniel\Documents\GitHub\Prueba_Impresora\Prueba_Impresora\obj\Debug\Prueba_Impresora.Resources.resources
+C:\Users\Daniel\Documents\GitHub\Prueba_Impresora\Prueba_Impresora\obj\Debug\Prueba_Impresora.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\GitHub\Prueba_Impresora\Prueba_Impresora\obj\Debug\Prueba_Impresora.exe
+C:\Users\Daniel\Documents\GitHub\Prueba_Impresora\Prueba_Impresora\obj\Debug\Prueba_Impresora.xml
+C:\Users\Daniel\Documents\GitHub\Prueba_Impresora\Prueba_Impresora\obj\Debug\Prueba_Impresora.pdb
+C:\Users\Daniel\Documents\GitHub\Prueba_Impresora\Prueba_Impresora\obj\Debug\Prueba_Impresora.Form2.resources
